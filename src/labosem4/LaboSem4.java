@@ -16,7 +16,7 @@ public class LaboSem4 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        int patate = 3;
+        int patate = 42;
     }
     
 }
